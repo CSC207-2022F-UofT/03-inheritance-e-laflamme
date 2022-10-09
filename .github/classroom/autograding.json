@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "BagMain",
+      "setup": "",
+      "run": "gradle test --tests BagMainTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "CrossbodyBag",
+      "setup": "",
+      "run": "gradle test --tests CrossbodyBagTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "HandBag",
+      "setup": "",
+      "run": "gradle test --tests HandBagTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
